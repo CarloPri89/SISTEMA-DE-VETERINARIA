@@ -1,0 +1,320 @@
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojResolveAssemblyReference.cache
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.Cache
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+C:\Users\APAIXONADO\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojResolveAssemblyReference.cache
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.Cache
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+G:\Trabajos\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+C:\Users\Cristian\Desktop\Proyecto Visual Studio 2015\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+D:\Proyecto Veterianario\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+C:\Users\Carlos\Desktop\Nueva carpeta (4)\sistema-veterinario-master\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\WinFormAnimation.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.xml
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CopyComplete
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mensajexd.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.manifest
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.application
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe.manifest
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.application
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\FlashControlV71.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\stdole.dll
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.reportes.resources
+C:\Users\Carlos\Desktop\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Form2.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.manifest
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.application
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Shared.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\FlashControlV71.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\WinFormAnimation.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\ShockwaveFlashObjects.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\stdole.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.xml
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbprojAssemblyReference.cache
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Form2.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mensajexd.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.reportes.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe.manifest
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.application
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CopyComplete
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+D:\basurasxd\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.config
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe.manifest
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.application
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.exe
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.pdb
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Veterinaria.xml
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Shared.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\FlashControlV71.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\WinFormAnimation.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\ShockwaveFlashObjects.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\stdole.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\CircularProgressBar.xml
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\Interop.WMPLib.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\bin\Debug\AxInterop.WMPLib.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.AssemblyReference.cache
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Interop.WMPLib.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\AxInterop.WMPLib.dll
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.ResolveComReference.cache
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ayuda.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Cliente.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Empleado.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Form2.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mensajexd.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.foto.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionDeEmpleados.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionProductos.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.InformacionVenta.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.IniciarSesion.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Mascota.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MascotaCliente.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.MenuPrincipal.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Resources.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Producto.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.reportes.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Servicio.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.ServiciosRealizados.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.Ventas.resources
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.GenerateResource.cache
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CoreCompileInputs.cache
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe.manifest
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.application
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.vbproj.CopyComplete
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.exe
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.xml
+D:\hacks\programas\SISTEMA DE VETERINARIA\Veterinaria\Veterinaria\obj\Debug\Veterinaria.pdb
